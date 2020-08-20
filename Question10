@@ -1,0 +1,14 @@
+What are the applications of Graph DS?
+---------------------------------------
+
+i)In Computer science graphs are used to represent the flow of computation.
+ii)Google maps uses graphs for building transportation systems, where intersection of 
+two(or more) roads are considered to be a vertex and the road connecting two vertices 
+is considered to be an edge, thus their navigation system is based on the algorithm to 
+calculate the shortest path between two vertices.
+iii)In Facebook, users are considered to be the vertices and if they are friends then 
+there is an edge running between them. Facebook’s Friend suggestion algorithm uses graph 
+theory. Facebook is an example of undirected graph.
+iv)In World Wide Web, web pages are considered to be the vertices. There is an edge 
+from a page u to other page v if there is a link of page v on page u. This is an example 
+of Directed graph. It was the basic idea behind Google Page Ranking Algorithm.

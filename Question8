@@ -1,0 +1,28 @@
+What are the different types of traversal techniques in a tree?
+-----------------------------------------------------------------
+
+i)Inorder Traversal
+In this traversal method, the left subtree is visited first, then the root 
+and later the right sub-tree. We should always remember that every node may represent a subtree itself.
+If a binary tree is traversed in-order, the output will produce sorted key 
+values in an ascending order.
+Until all nodes are traversed −
+Step 1 − Recursively traverse left subtree.
+Step 2 − Visit root node.
+Step 3 − Recursively traverse right subtree.
+
+ii)Preorder Traversal
+In this traversal method, the root node is visited first, then the left subtree 
+and finally the right subtree.
+Until all nodes are traversed −
+Step 1 − Visit root node.
+Step 2 − Recursively traverse left subtree.
+Step 3 − Recursively traverse right subtree.
+
+iii)Postorder Traversal
+In this traversal method, the root node is visited last, hence the name. First we traverse the 
+left subtree, then the right subtree and finally the root node.
+Until all nodes are traversed −
+Step 1 − Recursively traverse left subtree.
+Step 2 − Recursively traverse right subtree.
+Step 3 − Visit root node.

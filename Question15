@@ -1,0 +1,8 @@
+What are some of the most important applications of a Stack?
+--------------------------------------------------------------
+
+i)Stacks can be used for expression evaluation.
+ii)Stacks can be used to check parenthesis matching in an expression.
+iii)Stacks can be used for Conversion from one form of expression to another.
+iv)Stacks can be used for Memory Management.
+v)Stack data structures are used in backtracking problems.

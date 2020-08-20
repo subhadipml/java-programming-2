@@ -1,0 +1,9 @@
+Which data structure is ideal to perform recursion operation and why?
+-----------------------------------------------------------------------
+
+Stack. Because of its LIFO (Last In First Out) property it remembers its ‘caller’ 
+so knows whom to return when the function has to return. Recursion makes use of system 
+stack for storing the return addresses of the function calls.
+
+Every recursive function has its equivalent iterative (non-recursive) function. 
+Even when such equivalent iterative procedures are written, explicit stack is to be used.

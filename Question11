@@ -1,0 +1,7 @@
+Can we apply Binary search algorithm to a sorted Linked list?
+---------------------------------------------------------------
+
+Yes, Binary search is possible on the linked list if the list is 
+ordered and you know the count of elements in list. But While sorting the list, 
+you can access a single element at a time through a pointer to that node 
+i.e. either a previous node or next node.
