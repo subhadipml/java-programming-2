@@ -1,4 +1,4 @@
-
+//Program to return the nth node from the end in a linked list
 public class LinkedList {
 
 	Node head;
