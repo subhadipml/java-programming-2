@@ -1,3 +1,7 @@
+What is the use of a doubly-linked list when compared to that of a singly
+linked list?
+----------------------------------------------------------------------------
+
 Doubly linked list allows element two way traversal. On other hand doubly 
 linked list can be used to implement stacks as well as heaps and binary trees. 
 Singly linked list is preferred when we need to save memory and searching is not 

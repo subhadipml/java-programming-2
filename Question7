@@ -1,0 +1,6 @@
+What are the minimum number of Queues needed to implement the priority queue?
+-----------------------------------------------------------------------------
+
+Minimum number of queues needed to implement priority queue is 2. 
+One queue is used for the actual storing of data, and 
+the other one is used for storing the priorities.
