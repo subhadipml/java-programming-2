@@ -1,0 +1,4 @@
+Doubly linked list allows element two way traversal. On other hand doubly 
+linked list can be used to implement stacks as well as heaps and binary trees. 
+Singly linked list is preferred when we need to save memory and searching is not 
+required as pointer of single index is stored.

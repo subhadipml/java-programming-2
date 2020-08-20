@@ -1,0 +1,23 @@
+i)Arrangement of leader-board of a game can be done simply 
+through arrays DS to store the score and arrange them in descending order 
+to clearly make out the rank of each player in the game.
+
+ii)Web pages can be accessed using the previous and the next URL 
+links which are linked using linked list DS.
+
+iii)Undo operation is also carried out through stacks DS.
+
+iv)Data packets in communication are arranged in queue DS format.
+
+v)Facebook’s Graph API uses the structure of Graphs DS.
+
+vi)Domain Name Server(DNS) also uses tree structures.
+
+vii)Data stored in databases is generally of the key-value 
+format which is done through hash tables DS.
+
+viii)Systems concerned with security and embedded system 
+such as Linux Kernel uses Heap Sort DS.
+
+ix)Used for plotting graphs DS, statistics and also to do scientific 
+studies and research in almost different fields.
